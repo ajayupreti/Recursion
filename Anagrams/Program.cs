@@ -9,6 +9,7 @@ namespace Anagrams
         static char[] word = new char[100];
         static void Main(string[] args)
         {
+            System.Console.Write("Enter a word: ");
             string input = Console.ReadLine().Trim();
             word = input.ToCharArray();
             count = 0;
