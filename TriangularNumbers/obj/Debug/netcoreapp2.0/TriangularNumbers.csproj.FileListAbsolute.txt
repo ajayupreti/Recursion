@@ -1,0 +1,9 @@
+C:\Users\priyanshu\Desktop\Recursion\TriangularNumbers\bin\Debug\netcoreapp2.0\TriangularNumbers.deps.json
+C:\Users\priyanshu\Desktop\Recursion\TriangularNumbers\bin\Debug\netcoreapp2.0\TriangularNumbers.runtimeconfig.json
+C:\Users\priyanshu\Desktop\Recursion\TriangularNumbers\bin\Debug\netcoreapp2.0\TriangularNumbers.runtimeconfig.dev.json
+C:\Users\priyanshu\Desktop\Recursion\TriangularNumbers\bin\Debug\netcoreapp2.0\TriangularNumbers.dll
+C:\Users\priyanshu\Desktop\Recursion\TriangularNumbers\bin\Debug\netcoreapp2.0\TriangularNumbers.pdb
+C:\Users\priyanshu\Desktop\Recursion\TriangularNumbers\obj\Debug\netcoreapp2.0\TriangularNumbers.csproj.CoreCompileInputs.cache
+C:\Users\priyanshu\Desktop\Recursion\TriangularNumbers\obj\Debug\netcoreapp2.0\TriangularNumbers.AssemblyInfo.cs
+C:\Users\priyanshu\Desktop\Recursion\TriangularNumbers\obj\Debug\netcoreapp2.0\TriangularNumbers.dll
+C:\Users\priyanshu\Desktop\Recursion\TriangularNumbers\obj\Debug\netcoreapp2.0\TriangularNumbers.pdb

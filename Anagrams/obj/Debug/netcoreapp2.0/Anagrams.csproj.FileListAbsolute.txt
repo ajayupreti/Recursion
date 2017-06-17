@@ -1,0 +1,9 @@
+C:\Users\priyanshu\Desktop\Recursion\Anagrams\bin\Debug\netcoreapp2.0\Anagrams.deps.json
+C:\Users\priyanshu\Desktop\Recursion\Anagrams\bin\Debug\netcoreapp2.0\Anagrams.runtimeconfig.json
+C:\Users\priyanshu\Desktop\Recursion\Anagrams\bin\Debug\netcoreapp2.0\Anagrams.runtimeconfig.dev.json
+C:\Users\priyanshu\Desktop\Recursion\Anagrams\bin\Debug\netcoreapp2.0\Anagrams.dll
+C:\Users\priyanshu\Desktop\Recursion\Anagrams\bin\Debug\netcoreapp2.0\Anagrams.pdb
+C:\Users\priyanshu\Desktop\Recursion\Anagrams\obj\Debug\netcoreapp2.0\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\priyanshu\Desktop\Recursion\Anagrams\obj\Debug\netcoreapp2.0\Anagrams.AssemblyInfo.cs
+C:\Users\priyanshu\Desktop\Recursion\Anagrams\obj\Debug\netcoreapp2.0\Anagrams.dll
+C:\Users\priyanshu\Desktop\Recursion\Anagrams\obj\Debug\netcoreapp2.0\Anagrams.pdb
