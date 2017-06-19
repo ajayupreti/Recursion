@@ -1,0 +1,9 @@
+C:\Users\priyanshu\Desktop\Recursion\Raising Power\bin\Debug\netcoreapp2.0\Raising Power.deps.json
+C:\Users\priyanshu\Desktop\Recursion\Raising Power\bin\Debug\netcoreapp2.0\Raising Power.runtimeconfig.json
+C:\Users\priyanshu\Desktop\Recursion\Raising Power\bin\Debug\netcoreapp2.0\Raising Power.runtimeconfig.dev.json
+C:\Users\priyanshu\Desktop\Recursion\Raising Power\bin\Debug\netcoreapp2.0\Raising Power.dll
+C:\Users\priyanshu\Desktop\Recursion\Raising Power\bin\Debug\netcoreapp2.0\Raising Power.pdb
+C:\Users\priyanshu\Desktop\Recursion\Raising Power\obj\Debug\netcoreapp2.0\Raising Power.csproj.CoreCompileInputs.cache
+C:\Users\priyanshu\Desktop\Recursion\Raising Power\obj\Debug\netcoreapp2.0\Raising Power.AssemblyInfo.cs
+C:\Users\priyanshu\Desktop\Recursion\Raising Power\obj\Debug\netcoreapp2.0\Raising Power.dll
+C:\Users\priyanshu\Desktop\Recursion\Raising Power\obj\Debug\netcoreapp2.0\Raising Power.pdb
