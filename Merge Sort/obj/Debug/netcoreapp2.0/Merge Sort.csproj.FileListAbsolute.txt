@@ -1,0 +1,9 @@
+C:\Users\priyanshu\Desktop\Recursion\Merge Sort\bin\Debug\netcoreapp2.0\Merge Sort.deps.json
+C:\Users\priyanshu\Desktop\Recursion\Merge Sort\bin\Debug\netcoreapp2.0\Merge Sort.runtimeconfig.json
+C:\Users\priyanshu\Desktop\Recursion\Merge Sort\bin\Debug\netcoreapp2.0\Merge Sort.runtimeconfig.dev.json
+C:\Users\priyanshu\Desktop\Recursion\Merge Sort\bin\Debug\netcoreapp2.0\Merge Sort.dll
+C:\Users\priyanshu\Desktop\Recursion\Merge Sort\bin\Debug\netcoreapp2.0\Merge Sort.pdb
+C:\Users\priyanshu\Desktop\Recursion\Merge Sort\obj\Debug\netcoreapp2.0\Merge Sort.csproj.CoreCompileInputs.cache
+C:\Users\priyanshu\Desktop\Recursion\Merge Sort\obj\Debug\netcoreapp2.0\Merge Sort.AssemblyInfo.cs
+C:\Users\priyanshu\Desktop\Recursion\Merge Sort\obj\Debug\netcoreapp2.0\Merge Sort.dll
+C:\Users\priyanshu\Desktop\Recursion\Merge Sort\obj\Debug\netcoreapp2.0\Merge Sort.pdb
