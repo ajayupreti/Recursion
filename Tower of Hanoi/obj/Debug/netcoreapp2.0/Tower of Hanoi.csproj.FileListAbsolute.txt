@@ -1,0 +1,9 @@
+C:\Users\priyanshu\Desktop\Recursion\Tower of Hanoi\bin\Debug\netcoreapp2.0\Tower of Hanoi.deps.json
+C:\Users\priyanshu\Desktop\Recursion\Tower of Hanoi\bin\Debug\netcoreapp2.0\Tower of Hanoi.runtimeconfig.json
+C:\Users\priyanshu\Desktop\Recursion\Tower of Hanoi\bin\Debug\netcoreapp2.0\Tower of Hanoi.runtimeconfig.dev.json
+C:\Users\priyanshu\Desktop\Recursion\Tower of Hanoi\bin\Debug\netcoreapp2.0\Tower of Hanoi.dll
+C:\Users\priyanshu\Desktop\Recursion\Tower of Hanoi\bin\Debug\netcoreapp2.0\Tower of Hanoi.pdb
+C:\Users\priyanshu\Desktop\Recursion\Tower of Hanoi\obj\Debug\netcoreapp2.0\Tower of Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\priyanshu\Desktop\Recursion\Tower of Hanoi\obj\Debug\netcoreapp2.0\Tower of Hanoi.AssemblyInfo.cs
+C:\Users\priyanshu\Desktop\Recursion\Tower of Hanoi\obj\Debug\netcoreapp2.0\Tower of Hanoi.dll
+C:\Users\priyanshu\Desktop\Recursion\Tower of Hanoi\obj\Debug\netcoreapp2.0\Tower of Hanoi.pdb
