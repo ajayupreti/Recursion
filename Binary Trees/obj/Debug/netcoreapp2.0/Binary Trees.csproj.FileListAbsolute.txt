@@ -1,0 +1,9 @@
+C:\Users\priyanshu\Desktop\Recursion\Binary Trees\bin\Debug\netcoreapp2.0\Binary Trees.deps.json
+C:\Users\priyanshu\Desktop\Recursion\Binary Trees\bin\Debug\netcoreapp2.0\Binary Trees.runtimeconfig.json
+C:\Users\priyanshu\Desktop\Recursion\Binary Trees\bin\Debug\netcoreapp2.0\Binary Trees.runtimeconfig.dev.json
+C:\Users\priyanshu\Desktop\Recursion\Binary Trees\bin\Debug\netcoreapp2.0\Binary Trees.dll
+C:\Users\priyanshu\Desktop\Recursion\Binary Trees\bin\Debug\netcoreapp2.0\Binary Trees.pdb
+C:\Users\priyanshu\Desktop\Recursion\Binary Trees\obj\Debug\netcoreapp2.0\Binary Trees.csproj.CoreCompileInputs.cache
+C:\Users\priyanshu\Desktop\Recursion\Binary Trees\obj\Debug\netcoreapp2.0\Binary Trees.AssemblyInfo.cs
+C:\Users\priyanshu\Desktop\Recursion\Binary Trees\obj\Debug\netcoreapp2.0\Binary Trees.dll
+C:\Users\priyanshu\Desktop\Recursion\Binary Trees\obj\Debug\netcoreapp2.0\Binary Trees.pdb
