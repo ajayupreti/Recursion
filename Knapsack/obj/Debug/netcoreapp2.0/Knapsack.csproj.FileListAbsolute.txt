@@ -1,0 +1,9 @@
+C:\Users\priyanshu\Desktop\Recursion\Knapsack\bin\Debug\netcoreapp2.0\Knapsack.deps.json
+C:\Users\priyanshu\Desktop\Recursion\Knapsack\bin\Debug\netcoreapp2.0\Knapsack.runtimeconfig.json
+C:\Users\priyanshu\Desktop\Recursion\Knapsack\bin\Debug\netcoreapp2.0\Knapsack.runtimeconfig.dev.json
+C:\Users\priyanshu\Desktop\Recursion\Knapsack\bin\Debug\netcoreapp2.0\Knapsack.dll
+C:\Users\priyanshu\Desktop\Recursion\Knapsack\bin\Debug\netcoreapp2.0\Knapsack.pdb
+C:\Users\priyanshu\Desktop\Recursion\Knapsack\obj\Debug\netcoreapp2.0\Knapsack.csproj.CoreCompileInputs.cache
+C:\Users\priyanshu\Desktop\Recursion\Knapsack\obj\Debug\netcoreapp2.0\Knapsack.AssemblyInfo.cs
+C:\Users\priyanshu\Desktop\Recursion\Knapsack\obj\Debug\netcoreapp2.0\Knapsack.dll
+C:\Users\priyanshu\Desktop\Recursion\Knapsack\obj\Debug\netcoreapp2.0\Knapsack.pdb
