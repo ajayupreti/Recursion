@@ -1,0 +1,9 @@
+C:\Users\priyanshu\Desktop\Recursion\Median of 3 Quick Sort\bin\Debug\netcoreapp2.0\Median of 3 Quick Sort.deps.json
+C:\Users\priyanshu\Desktop\Recursion\Median of 3 Quick Sort\bin\Debug\netcoreapp2.0\Median of 3 Quick Sort.runtimeconfig.json
+C:\Users\priyanshu\Desktop\Recursion\Median of 3 Quick Sort\bin\Debug\netcoreapp2.0\Median of 3 Quick Sort.runtimeconfig.dev.json
+C:\Users\priyanshu\Desktop\Recursion\Median of 3 Quick Sort\bin\Debug\netcoreapp2.0\Median of 3 Quick Sort.dll
+C:\Users\priyanshu\Desktop\Recursion\Median of 3 Quick Sort\bin\Debug\netcoreapp2.0\Median of 3 Quick Sort.pdb
+C:\Users\priyanshu\Desktop\Recursion\Median of 3 Quick Sort\obj\Debug\netcoreapp2.0\Median of 3 Quick Sort.csproj.CoreCompileInputs.cache
+C:\Users\priyanshu\Desktop\Recursion\Median of 3 Quick Sort\obj\Debug\netcoreapp2.0\Median of 3 Quick Sort.AssemblyInfo.cs
+C:\Users\priyanshu\Desktop\Recursion\Median of 3 Quick Sort\obj\Debug\netcoreapp2.0\Median of 3 Quick Sort.dll
+C:\Users\priyanshu\Desktop\Recursion\Median of 3 Quick Sort\obj\Debug\netcoreapp2.0\Median of 3 Quick Sort.pdb
